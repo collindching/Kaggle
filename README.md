@@ -4,6 +4,6 @@ Given a person's credit history, can you predict whether that person will pay ba
 
 ## How to run the code
 
-The data was too big for me to upload to Github, but you can download from the competition. 
+The data was too big for me to upload to Github, but you can download it from the competition (link [here](https://www.kaggle.com/c/home-credit-default-risk/data)). 
 
 My code is split into different scripts within the workflow folder, and I numbered them in the order that I ran them. You can run all the scripts in that order. I also split up my Home Credit models in different scripts.
